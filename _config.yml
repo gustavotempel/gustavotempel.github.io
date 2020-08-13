@@ -1,1 +1,3 @@
-baseurl: /gustavotempel.github.io
+production_url : https://gustavotempel.github.io/gustavotempel
+
+BASE_PATH : https://gustavotempel.github.io/gustavotempel
